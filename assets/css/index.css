@@ -79,7 +79,7 @@ nav li:hover{
 nav li:active{
     background-color: #ffffff;
 }
-.text{
+.text-wrapper{
     text-align: justify;
     font-size: 15pt;
     margin-right: 19pt;
@@ -89,7 +89,7 @@ nav li:active{
 h3{
     font-size: 31pt;
 }
-.list{
+.item-list{
     font-size: 16pt;
 }
 #form{
